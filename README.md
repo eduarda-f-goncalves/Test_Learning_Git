@@ -25,5 +25,5 @@ Using VSCode:
 1) Open Vscode and choose a folder to open and where to store locally all the codes etc.
 2) To open a repository from GitHub, for example this one, use the followig prompt: git clone git@github.com:eduarda-f-goncalves/Test_Learning_Git.git   (clone)
 3) Atfer doing changes, or adding new files or anything at all, we have to save it locally, using the prompt:  git add .  This saves all the changes locally. The dot means it saves everything on the folder, or we can swap it by the name of the file we want to save.
-4) After this we have to commit: git commit -m
+4) After this we have to commit: git commit -m "another test from VScode"   this is the comment that willappear on GitHub, to know what this is about.
 5) And lastly to save not onky locally, but also on GitHub, we use the following command: git push   and it will sync both.
