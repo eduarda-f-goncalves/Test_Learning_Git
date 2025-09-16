@@ -18,7 +18,7 @@ GIT COMMANDS:
 - push : upload Git commits to a remote repo (short for repository), like GitHub
 - pull : download changes from remote repo to your local machine, the opposite of push
 
-Note: when crating a new file, if we use the termination : README.md, the .md is for formatting the fila as a mark down file, where we can write whatever we want.
+Note: when crating a new file, if we use the termination : README.md, the .md is for formatting the file as a mark down file, where we can write whatever we want.
 In this case a README file is just a file where it is explained how the code works and what it does.
 
 Using VSCode:
