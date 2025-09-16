@@ -12,7 +12,7 @@ TERMS:
 - GitHub : A website to host your repositories online
 
 GIT COMMANDS:
-- clone : bring a repository that is hosted somewhere like GitHub into a folderon your local machine
+- clone : bring a repository that is hosted somewhere like GitHub into a folder on your local machine
 - add : track your files and changes in Git
 - commit : save your files in Git
 - push : upload Git commits to a remote repo (short for repository), like GitHub
